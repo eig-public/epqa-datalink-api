@@ -6,7 +6,7 @@ from datetime import datetime
 from datetime import timedelta
 
 # Remote configuration
-base_url = "https://apiservice-prod.energypqa.com/v1"
+base_url = "https://apiservice.energypqa.com/v1"
 username = "75d48e47f6e946ec9def97becddf0218_datalink"
 password = "1234"
 verify_ssl = False

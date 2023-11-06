@@ -30,7 +30,7 @@ def init(clfe=True, clce=True, sm=200):
     str_max = sm
 
 class CommConfig:
-    base_url = "https://apiservice-dev.energypqa.com/v1"
+    base_url = "https://apiservice.energypqa.com/v1"
     username = None
     password = None
     
